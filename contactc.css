@@ -1,0 +1,125 @@
+#body{
+    margin: 50px;
+    padding: 10px;
+    background-color:darkslategray;
+    
+}
+
+
+
+#pname{background-color: teal;
+    /*border:2px solid black;*/
+    height:200px;
+    background-color: darksalmon;
+    padding: 10px 10px;
+    margin: 5px -2px;
+    border:1px solid darkslategray;
+}
+#image{
+    height:200px;
+    
+    float: left;
+   
+   
+}
+#name{
+    margin:-2px;
+    padding:0px;
+    width:50%;
+    height:200px;
+    /*border:2px solid tomato;*/
+    position: relative;
+    top: 144px;
+    left:102px;
+    font-size: 54px;
+    font-style: oblique;
+    color: purple;
+    float: left;
+}
+
+#profile{
+    height: 430px;
+    width: 15%;
+    float:left;
+    background-color: khaki;
+    padding:10px;
+    border:2px solid darkgreen;
+
+}
+
+#intro{
+    height: 450px;
+    width: 80%;
+    padding: 0px 14px;
+    margin: 0px auto;
+    float: left;
+    background-color: pink;
+    font-size: 30px;
+    border: 2px solid darkgreen;
+    display: block;
+}
+
+    
+}
+
+
+.about{
+    margin: 8px 3px;
+    padding: 1px 0px;
+    cursor: pointer;
+    
+    
+}
+#info{
+    font-size: 30px;
+}
+#qua{
+    font-size: 30px;
+}
+#twi{
+    background-color: white;
+    float: right;
+    /* padding: 2px 2px 9px 170px; */
+    margin: 11px auto;
+}
+#upper{
+display: block;
+width: 65%;
+margin: 12px auto;
+}
+
+#social{
+    border:2px solid red;
+    display: inline-block;
+    padding: 10px;
+    width:75%;
+   
+}
+
+#f{
+    padding: 10px;
+    margin: 0px auto;
+}
+#i{
+    padding: 10px 10px 10px 30px;
+    margin: 0px auto;
+
+}
+
+#l{
+    padding: 10px 10px 10px 25px;
+    margin: 0px auto;
+}
+
+#btn{
+      padding: 5px 5px 5px 0px;
+    margin: 0px 0px 25px 0px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+
+
+/*.navbar{
+display: inline-block;
+padding: 10px;*/
